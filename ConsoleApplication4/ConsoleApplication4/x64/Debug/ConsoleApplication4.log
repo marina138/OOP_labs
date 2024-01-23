@@ -1,0 +1,5 @@
+﻿  main.cpp
+  test.cpp
+  worker.cpp
+c1xx : fatal  error C1083: Не удается открыть файл источник: worker.cpp: No such file or directory,
+  Создание кода...
